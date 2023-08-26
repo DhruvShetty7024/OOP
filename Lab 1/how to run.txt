@@ -1,0 +1,47 @@
+Microsoft Windows [Version 10.0.22621.2134]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\student>cd/
+
+C:\>E:
+
+E:\>cd 220953504_Dhruv
+
+E:\220953504_Dhruv>cd "Lab 2"
+
+E:\220953504_Dhruv\Lab 2>bitwise.java
+
+E:\220953504_Dhruv\Lab 2>
+[main 2023-08-12T09:13:27.683Z] window#load: attempt to load window (id: 1)
+[main 2023-08-12T09:13:27.712Z] update#setState idle
+[main 2023-08-12T09:13:27.748Z] ExtensionHostStarterWorker created
+[main 2023-08-12T09:13:28.396Z] window#load: window reported ready (id: 1)
+[main 2023-08-12T09:13:28.728Z] Starting extension host with pid 5444 (fork() took 15 ms).
+[main 2023-08-12T09:13:28.729Z] ExtensionHostStarterWorker.start() took 16 ms.
+
+E:\220953504_Dhruv\Lab 2>javac bitwise.java[main 2023-08-12T09:13:57.721Z] update#setState checking for updates
+[main 2023-08-12T09:13:57.736Z] update#setState downloading
+[main 2023-08-12T09:13:57.744Z] update#setState downloaded
+
+
+E:\220953504_Dhruv\Lab 2>
+E:\220953504_Dhruv\Lab 2>java bitwise
+Enter a number:
+2
+2 x 2 = 1
+2 / 2 = 1
+
+E:\220953504_Dhruv\Lab 2>java bitwise
+Enter a number:
+2
+2 x 2 = 1
+2 / 2 = 1
+
+E:\220953504_Dhruv\Lab 2>[5276:0812/144527.655:ERROR:gpu_init.cc(454)] Passthrough is not supported, GL is disabled, ANGLE is
+java bitwise
+Enter a number:
+2
+2 x 2 = 1
+2 / 2 = 1
+
+E:\220953504_Dhruv\Lab 2>
